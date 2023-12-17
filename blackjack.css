@@ -1,0 +1,43 @@
+#he{
+    color: goldenrod;
+}
+
+#yu  {
+    background-image:url(blackjack.jpg
+);
+    background-size: cover;
+    font-weight: bold;
+    color: aliceblue;
+  text-align: center;
+  font-size:xx-large;
+
+
+
+    
+}
+#sg{
+    background-color: goldenrod;
+    width: 150px;
+    height: 45px;
+    color: aqua;
+    border-radius: 11;
+}
+#sg:hover{
+    background-color: beige;
+    color: black;
+}
+#nc{
+    color: aliceblue;
+    background-color: goldenrod;
+    padding: auto;
+    width: 150px;
+    height: 45px;
+    padding: 2px;
+    margin: 3px;
+    border-radius: 12x;
+
+}
+#nc:hover{
+    color: rgb(75, 47, 255);
+    background-color: azure;
+}
